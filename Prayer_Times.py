@@ -1,4 +1,3 @@
-
 """
  Prayer Times App with a GUI
  
